@@ -11,6 +11,26 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "permission_reason_read_health_data",
+      "value": ""
+    },
+    {
+      "name": "permission_reason_activity_motion",
+      "value": ""
+    },
+    {
+      "name": "permission_reason_datasync",
+      "value": ""
+    },
+    {
+      "name": "permission_reason_keep_background_running",
+      "value": ""
+    },
+    {
+      "name": "heart_rate_monitor",
+      "value": "Heart Rate Monitor"
     }
   ]
 }
