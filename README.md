@@ -1,4 +1,4 @@
-# App-Snake
+# app-HeartRateMonitor
 
 ## Content table
 1. [Overview](#overview)
