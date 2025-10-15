@@ -1,5 +1,11 @@
 # app-HeartRateMonitor
 
+Video tutorial of HarmonyOS wearable app development with sensor usage: [link](https://www.youtube.com/watch?v=PEnczSZpKpw&list=PLy7t4z5SYNaT3VUbRGCoNH471N9sSs0uV&index=2).
+
+Demo app is located at `demo` folder.
+
+**Notice**: In order to use the application, you need to regenerate your own device signature.
+
 ## Content table
 1. [Overview](#overview)
 2. [Features](#features)
